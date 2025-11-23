@@ -3,8 +3,8 @@
 > Améliorer votre quotidien grâce à des solutions connectées intelligentes et accessibles.
 ---
 
-> ![WARNING]
-> **on ne travaille pas sur `main` on ne push pas sur `develop` non plus, on crée une branche feature, on fait uniquement la feature puis une pull request, et on attend la review.**
+> [!WARNING]  
+> on ne travaille pas sur `main` on ne push pas sur `develop` non plus, on crée une branche feature, on fait uniquement la feature puis une pull request, et on attend la review.
 
 ---
 
